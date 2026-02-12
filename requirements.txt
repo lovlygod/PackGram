@@ -1,0 +1,5 @@
+python-telegram-bot>=22.6
+pillow
+python-dotenv
+aiogram==3.16.0
+Telethon==1.36.0

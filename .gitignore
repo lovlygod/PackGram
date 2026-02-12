@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Session files
+*.session
+*.session-journal
+
+# Cache media
+cache_media/
+temp_media/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
